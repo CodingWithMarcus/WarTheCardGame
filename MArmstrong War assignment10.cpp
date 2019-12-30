@@ -23,7 +23,7 @@ int main()
 
 	cout << "you are now: Player 1 \n" << "your opponent will be: Player 2" << endl << endl << endl;
 
-	cout << "Player1	Player2		Winner \n";
+	cout << "Player1	        Player2         Winner \n";
 	cout << "_____________________________ \n";
 
 	shuffle(deck1, 26);
